@@ -1,0 +1,2 @@
+#Búa þarf til int input breytu og breytu til að halda utan um stærstu töluna sem hefur komið.
+#Síðan nota While loop til að keyra forritið þangað til að tala < 0 kemur fyrir og prenntar síðan max_int út
